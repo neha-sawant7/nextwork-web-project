@@ -3,12 +3,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      java: corretto8'
-    commands:
-      - echo Setting AWS region
-      - export AWS_DEFAULT_REGION=us-east-2
-
-      
+      java: corretto8'  
   pre_build:
     commands:
       - echo Initializing environment
