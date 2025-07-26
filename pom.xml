@@ -18,4 +18,10 @@
   <build>
     <finalName>nextwork-web-project</finalName>
   </build>
+  <distributionManagement>
+  <repository>
+    <id>codeartifact</id>
+    <url>https://nextwork-796973484753.d.codeartifact.us-east-2.amazonaws.com/maven/nextwork/</url>
+  </repository>
+</distributionManagement>
 </project>
