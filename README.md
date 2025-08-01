@@ -5,7 +5,7 @@ This project demonstrates how to build a full CI/CD pipeline on AWS using native
 ---
 
 ## Here is the link of detailed project:
-https://proj.hashnode.space/default-guide/built-a-complete-cicd-pipeline-using-aws-tools
+https://cicd-pipeline-usingaws-tools.hashnode.dev/complete-cicd-pipeline-using-aws-tools
 
 
 ## 📌 Project Overview
