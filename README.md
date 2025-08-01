@@ -5,7 +5,7 @@ This project demonstrates how to build a full CI/CD pipeline on AWS using native
 ---
 
 ## Here is the link of detailed project:
-https://cicd-devops-project.hashnode.dev/end-to-end-kubernetes-cluster-implementation-with-cicd-pipeline-and-monitoring-tools
+https://cicd-pipeline-usingaws-tools.hashnode.dev/complete-cicd-pipeline-using-aws-tools
 
 
 ## 📌 Project Overview
